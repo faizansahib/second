@@ -1,0 +1,28 @@
+body{
+   margin: 0%;
+   padding: 0%; 
+   background-color: black;
+}
+
+h1{
+    color: aqua;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 40%;
+    margin-top: 20%;
+}
+h2{
+    color: aqua;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 40%;
+    margin-top: 5%; 
+}
+
+h3{
+    color: aqua;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 45%;
+    margin-top: 5%;
+}
